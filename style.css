@@ -92,7 +92,7 @@
 	}
 }
 
-.word span:nth-child(5).active {
+.word span:nth-child(6).active {
 	animation: toplong 1.5s linear;
 }
 
